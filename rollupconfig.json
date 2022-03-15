@@ -1,0 +1,11 @@
+{
+  "dev": {
+    "input": "./src/demo.tsx"
+  },
+  "prod": {
+    "input": "./src/index.ts"
+  },
+  "devServe": {
+    "port": 8081
+  }
+}
